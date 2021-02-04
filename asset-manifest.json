@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactReduxJSCardsProgect/static/css/main.aa207b39.chunk.css",
+    "main.js": "/ReactReduxJSCardsProgect/static/js/main.6352a420.chunk.js",
+    "main.js.map": "/ReactReduxJSCardsProgect/static/js/main.6352a420.chunk.js.map",
+    "runtime-main.js": "/ReactReduxJSCardsProgect/static/js/runtime-main.ce8cadf5.js",
+    "runtime-main.js.map": "/ReactReduxJSCardsProgect/static/js/runtime-main.ce8cadf5.js.map",
+    "static/js/2.525a33b3.chunk.js": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js",
+    "static/js/2.525a33b3.chunk.js.map": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js.map",
+    "index.html": "/ReactReduxJSCardsProgect/index.html",
+    "precache-manifest.3b59d0950104e99757a5155d0e106d11.js": "/ReactReduxJSCardsProgect/precache-manifest.3b59d0950104e99757a5155d0e106d11.js",
+    "service-worker.js": "/ReactReduxJSCardsProgect/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/ReactReduxJSCardsProgect/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.525a33b3.chunk.js.LICENSE.txt": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce8cadf5.js",
+    "static/js/2.525a33b3.chunk.js",
+    "static/css/main.aa207b39.chunk.css",
+    "static/js/main.6352a420.chunk.js"
+  ]
+}
