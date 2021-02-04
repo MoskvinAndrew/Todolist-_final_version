@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactReduxJSCardsProgect/static/css/main.aa207b39.chunk.css",
-    "main.js": "/ReactReduxJSCardsProgect/static/js/main.6352a420.chunk.js",
-    "main.js.map": "/ReactReduxJSCardsProgect/static/js/main.6352a420.chunk.js.map",
-    "runtime-main.js": "/ReactReduxJSCardsProgect/static/js/runtime-main.ce8cadf5.js",
-    "runtime-main.js.map": "/ReactReduxJSCardsProgect/static/js/runtime-main.ce8cadf5.js.map",
-    "static/js/2.525a33b3.chunk.js": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js",
-    "static/js/2.525a33b3.chunk.js.map": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js.map",
-    "index.html": "/ReactReduxJSCardsProgect/index.html",
-    "precache-manifest.3b59d0950104e99757a5155d0e106d11.js": "/ReactReduxJSCardsProgect/precache-manifest.3b59d0950104e99757a5155d0e106d11.js",
-    "service-worker.js": "/ReactReduxJSCardsProgect/service-worker.js",
-    "static/css/main.aa207b39.chunk.css.map": "/ReactReduxJSCardsProgect/static/css/main.aa207b39.chunk.css.map",
-    "static/js/2.525a33b3.chunk.js.LICENSE.txt": "/ReactReduxJSCardsProgect/static/js/2.525a33b3.chunk.js.LICENSE.txt"
+    "main.css": "/Todolist-_final_version/static/css/main.aa207b39.chunk.css",
+    "main.js": "/Todolist-_final_version/static/js/main.8c03b164.chunk.js",
+    "main.js.map": "/Todolist-_final_version/static/js/main.8c03b164.chunk.js.map",
+    "runtime-main.js": "/Todolist-_final_version/static/js/runtime-main.e6b971ca.js",
+    "runtime-main.js.map": "/Todolist-_final_version/static/js/runtime-main.e6b971ca.js.map",
+    "static/js/2.525a33b3.chunk.js": "/Todolist-_final_version/static/js/2.525a33b3.chunk.js",
+    "static/js/2.525a33b3.chunk.js.map": "/Todolist-_final_version/static/js/2.525a33b3.chunk.js.map",
+    "index.html": "/Todolist-_final_version/index.html",
+    "precache-manifest.6df2b543a4057e1e070e05d1f707d8ea.js": "/Todolist-_final_version/precache-manifest.6df2b543a4057e1e070e05d1f707d8ea.js",
+    "service-worker.js": "/Todolist-_final_version/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/Todolist-_final_version/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.525a33b3.chunk.js.LICENSE.txt": "/Todolist-_final_version/static/js/2.525a33b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce8cadf5.js",
+    "static/js/runtime-main.e6b971ca.js",
     "static/js/2.525a33b3.chunk.js",
     "static/css/main.aa207b39.chunk.css",
-    "static/js/main.6352a420.chunk.js"
+    "static/js/main.8c03b164.chunk.js"
   ]
 }
