@@ -40,9 +40,11 @@ export type InitialStateType = {
 
 // thunk`s
 export const initializeAppTC = () => (dispatch: Dispatch) => {
+
     authAPI.me()
         .then(res => {
         if (res.data.resultCode === 0) {
+
             dispatch(setIsLoggedInAC({isLoggedIn:true}));
         } else {
 
